@@ -46,7 +46,7 @@ Importing flat tables directly into reporting tools degrades query performance a
 ## 🖥️ Interactive Dashboard Preview
 Below is the interactive executive canvas designed to protect final net profits and provide executive leadership with a single source of truth.
 
-![E-Commerce Executive Dashboard](https://raw.githubusercontent.com/AZdevs-4/ecommerce-revenue-margin-optimization/main/dashboard_preview.png)
+![E-Commerce Executive Dashboard]([https://raw.githubusercontent.com/AZdevs-4/ecommerce-revenue-margin-optimization/main/dashboard_preview.png](https://github.com/AZdevs-4/ecommerce-revenue-margin-optimization/blob/main/Images/Dashboard_Preview1.png))
 
 ### Key Dynamic Features Built:
 * **Unified Relational Data Modeling:** Seamless cross-filtering across geographic regions, product categories, and time frames.
